@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![logo](https://github.com/elivecoder/elivecoder/blob/main/cover.jpeg)
 <h1 align="center">Hi 👋, I'm Nitin sinha</h1>
 <h3 align="center">Learning, building, and sharing.</h3>
 <img align="right" alt="coding"width="400" src="https://imgs.search.brave.com/qHj-j_56PRjVxVNJgh0iHa8v7sakWmGW_bsoYERjeT4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXN0/LmdpdGh1Yi5jb20v/dmluaW5qci9kMjli/YjA3YmRhZGI0MWU0/YjA5MjNiYzhmYTc0/OGIxYS9yYXcvODhm/MjBjOWQ3NDlkNzU2/YmU2M2YyMmIwOWYz/YzRhYzU3MGJjNTEw/MS9wcm9ncmFtbWlu/Zy5naWY.gif">
